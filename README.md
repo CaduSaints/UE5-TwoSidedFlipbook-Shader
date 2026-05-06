@@ -2,7 +2,7 @@
 
 
 
-A free Unreal Engine 5 shader designed rotating, double sided, flipbooks. No mirror effect!
+A free Unreal Engine 5 shader designed for rotating, double sided, flipbooks. No mirror effect!
 
 \## Preview
 
